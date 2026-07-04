@@ -1,14 +1,29 @@
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\bin\Debug\net10.0\C# BlattleSandbox.exe
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\bin\Debug\net10.0\C# BlattleSandbox.deps.json
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\bin\Debug\net10.0\C# BlattleSandbox.runtimeconfig.json
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\bin\Debug\net10.0\C# BlattleSandbox.dll
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\bin\Debug\net10.0\C# BlattleSandbox.pdb
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.AssemblyInfoInputs.cache
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.AssemblyInfo.cs
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.csproj.CoreCompileInputs.cache
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.dll
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\refint\C# BlattleSandbox.dll
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.pdb
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\C# BlattleSandbox.genruntimeconfig.cache
-C:\Users\Andrey Markov\Documents\C# BlattleSandbox\obj\Debug\net10.0\ref\C# BlattleSandbox.dll
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.exe
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.deps.json
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.runtimeconfig.json
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.dll
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.pdb
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.AssemblyInfoInputs.cache
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.AssemblyInfo.cs
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.csproj.CoreCompileInputs.cache
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.dll
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/refint/C# BlattleSandbox.dll
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.pdb
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.genruntimeconfig.cache
+C:/Users/Andrey Markov/Documents/C# BlattleSandbox/obj/Debug/net10.0/ref/C# BlattleSandbox.dll
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.deps.json
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.runtimeconfig.json
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.dll
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/bin/Debug/net10.0/C# BlattleSandbox.pdb
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.AssemblyInfoInputs.cache
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.AssemblyInfo.cs
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.csproj.CoreCompileInputs.cache
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.sourcelink.json
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.dll
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/refint/C# BlattleSandbox.dll
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.pdb
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/C# BlattleSandbox.genruntimeconfig.cache
+/home/andrey-markov/CS-game/Documents/C# BlattleSandbox/obj/Debug/net10.0/ref/C# BlattleSandbox.dll
