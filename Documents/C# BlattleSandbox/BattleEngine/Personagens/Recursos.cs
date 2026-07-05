@@ -4,8 +4,8 @@ public class Recursos
     public int HP {get; private set; }
     public int HPMax {get; private set;}
 
-    public int Hake {get; private set;}
-    public int HakeMax {get; private set;}
+    public int Heka {get; private set;}
+    public int HekaMax {get; private set;}
     
     public int SP {get; private set;}
     
@@ -15,8 +15,8 @@ public class Recursos
     {
         this.HP = HP;
         HPMax = HP;
-        this.Hake = Hake;
-        HakeMax = Hake;
+        this.Heka = Heka;
+        HekaMax = Heka;
         this.SP = SP;
         SPMax = SP;
     }
@@ -35,7 +35,7 @@ public class Recursos
     {
         Console.WriteLine($"HP : {HP}/{HPMax}");
         Console.WriteLine($"SP : {HP}/{HPMax}");
-        Console.WriteLine($"HP : {HP}/{HPMax}");
+        Console.WriteLine($"Heka : {Heka}/{HekaMax}");
     }
 
 }

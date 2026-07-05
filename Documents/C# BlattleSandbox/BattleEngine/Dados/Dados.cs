@@ -12,6 +12,10 @@ public class Dados
         return Dn(20);
     }
 
+    public static int D12()
+    {
+        return Dn(12);
+    }
     public static int D100()
     {
         return Dn(100);
@@ -26,4 +30,5 @@ public class Dados
     {
         return Dn(4);
     }
+
 }
