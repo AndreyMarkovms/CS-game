@@ -7,28 +7,46 @@ public class Personagem
     public string Nome {get; private set; }
 
     public Recursos Recursos {get; private set; }
-    public Arma Arma {get; private set;}
+
+    public Arma Arma {get; private set; }
+
+    public Atributos Atributos {get; private set; }
 
     public Personagem(string Nome)          //Construtor
     {
         this.Nome = Nome;
         this.Recursos = new Recursos(100,100,100);
-        this.Arma = new Espada();
+        this.Arma = new Maos();
+        this.Atributos = new();
     }
 
-    public void ReceberDanoHP(int Dano)
+    public void DanoHP(int Dano)
     {
-        Recursos.TomaDanoHP(Dano);
+        Recursos.AlterarHP((-1) * Dano);
     }
 
-    public void ReceberDanoSP(int Dano)
+    public void DanoSP(int Dano)
     {
-        Recursos.TomaDanoSP(Dano);
+        Recursos.AlterarSP((-1) * Dano);
     }
 
-    public void Status()
+    public void CuraHP(int Cura)
     {
-        Console.WriteLine($"{Nome}:");
-        Recursos.Status();
+        Recursos.AlterarHP(Cura);
+    }
+
+    public void CuraSP(int Cura)
+    {
+        Recursos.AlterarSP(Cura);
+    }
+
+    public void AumentaHeka(int aumento)
+    {
+        Recursos.AlterarFluxo(aumento);
+    }
+
+    public void ReduzirHeka(int reducao)
+    {
+        Recursos.AlterarFluxo((-1)*reducao);
     }
 }

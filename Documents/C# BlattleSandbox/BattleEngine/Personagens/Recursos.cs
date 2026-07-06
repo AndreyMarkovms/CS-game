@@ -2,40 +2,60 @@ namespace BattleEngine.Characters;
 public class Recursos
 {
     public int HP {get; private set; }
-    public int HPMax {get; private set;}
+    public int HPMax {get; private set; }
 
-    public int Heka {get; private set;}
-    public int HekaMax {get; private set;}
+    public int AP {get; private set; }    
+    public int SP {get; private set; }
     
-    public int SP {get; private set;}
-    
-    public int SPMax{get; private set;}
+    public int SPMax{get; private set; }
 
-    public Recursos(int HP, int Hake, int SP)
+    public int FluxoHeka{get; private set; }
+
+    public Recursos(int HP, int Heke, int SP)
     {
         this.HP = HP;
-        HPMax = HP;
-        this.Heka = Heka;
-        HekaMax = Heka;
+        this.HPMax = HP;
         this.SP = SP;
-        SPMax = SP;
+        this.SPMax = SP;
+        this.FluxoHeka = 0;
+        this.AP = 3;
     }
 
-    public void TomaDanoHP(int Dano)
+    public void AlterarHP(int Valor)
     {
-        HP = HP - Dano;
+        this.HP = this.HP + Valor;
+        if (this.HP < 0)
+        {
+            this.HP = 0;
+        }
+        if (this.HP > this.HPMax)
+        {
+            this.HP = this.HPMax;
+        }
     }
-
-    public void TomaDanoSP(int Dano)
+    public void AlterarSP(int Valor)
     {
-        SP = SP - Dano;
+        this.SP = this.SP + Valor;
+        if (this.SP > this.SPMax)
+        {
+            this.SP = this.SPMax;
+        }
+        if (this.SP < 0)
+        {
+            this.SP = 0;
+        }
     }
 
-    public void Status()
+    public void AlterarFluxo(int Valor)
     {
-        Console.WriteLine($"HP : {HP}/{HPMax}");
-        Console.WriteLine($"SP : {HP}/{HPMax}");
-        Console.WriteLine($"Heka : {Heka}/{HekaMax}");
+        this.FluxoHeka = this.FluxoHeka + Valor;
+        if (this.FluxoHeka > 10)
+        {
+            this.FluxoHeka = 10;
+        }
+        if (this.FluxoHeka < 0)
+        {
+            this.FluxoHeka = 0;
+        }
     }
-
 }

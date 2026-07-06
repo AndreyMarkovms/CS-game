@@ -1,5 +1,5 @@
 ﻿using BattleEngine.Characters;
-using BattleEngine.Dice;
+
 
 List<Personagem> equipe = new();
 Personagem mark = new Personagem("Mark");
