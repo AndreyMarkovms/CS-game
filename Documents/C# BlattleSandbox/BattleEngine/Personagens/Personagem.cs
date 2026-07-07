@@ -11,6 +11,7 @@ public class Personagem
     public Arma Arma {get; private set; }
 
     public Atributos Atributos {get; private set; }
+    public EstadoCombate EstadoCombate {get; private set; }
 
     public Personagem(string Nome)          //Construtor
     {
@@ -18,6 +19,7 @@ public class Personagem
         this.Recursos = new Recursos(100,100,100);
         this.Arma = new Maos();
         this.Atributos = new();
+        this.EstadoCombate = new();
     }
 
     public void DanoHP(int Dano)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# BlattleSandbox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b92c5f0a76dd44d0b19fd993ada660f25acbf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+228544538031ff2df466df966ba68ede9addb821")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# BlattleSandbox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# BlattleSandbox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
