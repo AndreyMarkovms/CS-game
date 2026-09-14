@@ -17,7 +17,7 @@ public class ResultadoAtaque
         SucessosLiq = 0;
         SucessosDef = 0;
         Mitigacao = 0;
-        ContraAtaque = 0;
+        ContraAtaque = false;
         this.Reacao = Reacao;
         
     }
