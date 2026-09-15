@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BattleConsole/BattleConsole.csproj" />
+  <Project Path="BattleEngine/BattleEngine.csproj" />
+  <Project Path="BattleWeb/BattleWeb.csproj" />
+</Solution>

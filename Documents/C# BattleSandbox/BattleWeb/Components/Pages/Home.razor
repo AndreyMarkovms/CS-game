@@ -1,0 +1,20 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@using BattleEngine.Characters
+@using BattleWeb.Components.Battle
+<h1>Battle Sandbox Web-Version</h1>
+
+<p>Esse é o primeiro teste para o Battle sandbox em web.</p>
+<p>Vida: @mac.Recursos.HP / @mac.Recursos.HPMax</p>
+
+<button @onclick="Dano">Ai, isso dói</button>
+
+@code {
+    Personagem mac = new Personagem("Mac");
+    
+    void Dano(){
+        mac.DanoHP(1);
+    }
+}
+
+<PersonagemCard />
